@@ -112,3 +112,8 @@ button {
 #center-it {
   text-align: center;
 }
+
+#Boldred {
+  color: red;
+  font-weight: bold;
+}
