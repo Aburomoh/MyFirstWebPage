@@ -80,6 +80,7 @@ tr {
 
 ul {
   display: block;
+  display: none;
   list-style-type: disc;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -90,6 +91,7 @@ ul {
 
 ol {
   display: block;
+  display: none;
   list-style-type: decimal;
   margin-top: 1em;
   margin-bottom: 1em;
